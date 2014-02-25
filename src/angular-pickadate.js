@@ -163,3 +163,6 @@
       };
     }]);
 })(window.angular);
+
+// component(1)
+if (typeof module != 'undefined' && module) module.exports = 'pickadate';

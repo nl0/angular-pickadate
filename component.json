@@ -1,0 +1,13 @@
+{
+  "name": "angular-pickadate",
+  "repo": "nl0/angular-pickadate",
+  "version": "0.1.0",
+  "scripts": [
+    "src/angular-pickadate.js"
+  ],
+  "main": "src/angular-pickadate.js",
+  "styles": [
+    "src/angular-pickadate.css"
+  ],
+  "license": "MIT"
+}
